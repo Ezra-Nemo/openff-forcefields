@@ -175,7 +175,7 @@ Force fields moving forward will be called `name-X.Y.Z`
 
 - `2023.06.0`: This release adds `opc-1.0.1.offxml`, standardizing the use of the string "kilocalorie_per_mole". It also adds `tip3p-fb-1.1.0.offxml`, which fixes a unit error in the geometric constraints and adds additional ion parameters. Finally, it adds `opc3-1.0.0.offxml` and `tip4p_fb-1.0.0.offxml`.
 
-- `2024.01.0`: This release adds `openff-2.1.1.offxml` and `openff_unconstrained-2.1.1.offxml`, Sage 2.1.1, which has identical parameters to Sage 2.1.0 (originally released in version `2023.05.1` of the `openff-forcefields` package) but adds Xe van der Waals parameters from [Tang, K.T., Toennies, J.P. New combining rules for well parameters and shapes of the van der Waals potential of mixed rare gas systems. Z Phys D - Atoms, Molecules and Clusters 1, 91–101 (1986).](https://doi.org/10.1007/BF01384663)
+- `2024.01.0`: This release adds `openff-2.1.1.offxml` and `openff_unconstrained-2.1.1.offxml`, Sage 2.1.1, which has identical parameters to Sage 2.1.0 (originally released in version `2023.05.1` of the `openff-forcefields` package) but adds Xe van der Waals parameters from [Tang, K.T., Toennies, J.P. New combining rules for well parameters and shapes of the van der Waals potential of mixed rare gas systems. Z Phys D - Atoms, Molecules and Clusters 1, 91-101 (1986).](https://doi.org/10.1007/BF01384663)
 
 - `2024.03.0`: This release adds `openff-2.2.0-rc1.offxml` and `openff_unconstrained-2.2.0-rc1.offxml`, Sage 2.2.0 Release Candidate 1, which modifies some small ring internal angles and remedies issues with sulfamide geometries.
 
